@@ -9,3 +9,13 @@
 body{
     background: color #f3f1ff;;
 }
+.player img{
+    
+    width: 56px;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: aqua;
+}
